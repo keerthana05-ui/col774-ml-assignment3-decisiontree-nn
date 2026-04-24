@@ -118,10 +118,3 @@ Completed: December 2025
 - The folder name `neural network` contains a space – that’s how it is in the original repo; the scripts handle it correctly.
 
 ---
-
-## 📜 License
-
-Academic submission only. Please follow your institution’s honour code.
-```
-
-This README matches your actual repo structure (including the space in `neural network` folder and the presence of `REPORT_assgn3.odt`). It also honestly reflects that your decision tree experiments might be consolidated rather than split into multiple scripts – the report explains everything. Feel free to tweak any details.
