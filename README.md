@@ -5,7 +5,7 @@ Includes custom tree building, pruning, one‑hot encoding experiments, Random F
 
 ---
 
-## 📁 Repository Structure
+## Repository Structure
 
 ```
 .
@@ -25,7 +25,7 @@ Includes custom tree building, pruning, one‑hot encoding experiments, Random F
 
 ---
 
-## 🎯 Part A – Decision Trees (Cricket Win Prediction)
+##  Part A – Decision Trees (Cricket Win Prediction)
 
 **Goal**: Predict cricket match outcomes using a decision tree built from scratch.  
 **Key features**:
@@ -41,7 +41,7 @@ The assignment required splitting experiments into separate scripts (`a.py` … 
 
 ---
 
-## 🧠 Part B – Neural Networks (Devanagari Character Classification)
+##  Part B – Neural Networks (Devanagari Character Classification)
 
 **Goal**: Recognise handwritten Devanagari consonants (36 classes) and digits (10 classes).  
 **Implementation from scratch**:
@@ -103,7 +103,7 @@ Detailed tables, learning curves, and precision/recall per class are in the repo
 
 ---
 
-## 👤 Author
+##  Author
 
 **Keerthana** (GitHub: [keerthana05-ui](https://github.com/keerthana05-ui))  
 Course: COL774 – Machine Learning (Semester I, 2025‑26)  
